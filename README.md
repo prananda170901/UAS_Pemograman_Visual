@@ -11,3 +11,18 @@
 
 ### Dashboard
 ![Foto](asset/Dashboard.png)
+
+### Data Barang
+1[Foto](asset/data_barang.png)
+
+### Data Kategori
+![Foto](asset/kategori.png)
+
+### Transaksi
+![Foto](asset/transaksi.png)
+
+### Detail Transaksi
+![Foto](asset/detail_transaksi.png)
+
+### Faktur Transaksi
+![Foto](asset/faktur.png)
