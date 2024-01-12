@@ -26,3 +26,6 @@
 
 ### Faktur Transaksi
 ![Foto](asset/faktur.png)
+
+### Laporan Penjualan
+![Foto](asset/Laporan_penjualan.png)
