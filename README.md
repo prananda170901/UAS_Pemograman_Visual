@@ -29,3 +29,6 @@
 
 ### Laporan Penjualan
 ![Foto](asset/Laporan_penjualan.png)
+
+### Link Demo Aplikasi
+https://youtu.be/AdWJvyK3Dpc?si=vhWu6QNp-m8T3uYH
