@@ -13,7 +13,7 @@
 ![Foto](asset/Dashboard.png)
 
 ### Data Barang
-1[Foto](asset/data_barang.png)
+![Foto](asset/data_barang.png)
 
 ### Data Kategori
 ![Foto](asset/kategori.png)
